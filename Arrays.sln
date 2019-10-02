@@ -25,19 +25,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio9", "Ejercicio9\Ej
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio10", "Ejercicio10\Ejercicio10.csproj", "{9141EA42-E27C-4B4C-BFCD-6DA6673D5EC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejerecicio11", "Ejerecicio11\Ejerecicio11.csproj", "{E4A3895B-2A2C-4D26-94B5-E03BA48CAA69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejerecicio11", "Ejerecicio11\Ejerecicio11.csproj", "{E4A3895B-2A2C-4D26-94B5-E03BA48CAA69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio12", "Ejercicio12\Ejercicio12.csproj", "{B5C03A1D-635E-49C8-B8DB-010F4AF70734}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio12", "Ejercicio12\Ejercicio12.csproj", "{B5C03A1D-635E-49C8-B8DB-010F4AF70734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio13", "Ejercicio13\Ejercicio13.csproj", "{7427C940-6769-4FB8-BDB3-6981AB36DB49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio13", "Ejercicio13\Ejercicio13.csproj", "{7427C940-6769-4FB8-BDB3-6981AB36DB49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio14", "Ejercicio14\Ejercicio14.csproj", "{8D104CE3-734A-44B8-9CA3-3985DB581B73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio14", "Ejercicio14\Ejercicio14.csproj", "{8D104CE3-734A-44B8-9CA3-3985DB581B73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio15", "Ejercicio15\Ejercicio15.csproj", "{EE082878-237F-491C-AFBF-BD20C20EAFD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio15", "Ejercicio15\Ejercicio15.csproj", "{EE082878-237F-491C-AFBF-BD20C20EAFD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio16", "Ejercicio16\Ejercicio16.csproj", "{3A40B7D3-E57B-4AAE-8267-13BB92CF6AAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio16", "Ejercicio16\Ejercicio16.csproj", "{3A40B7D3-E57B-4AAE-8267-13BB92CF6AAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio17", "Ejercicio17\Ejercicio17.csproj", "{7A7A4954-9957-41D7-B629-27DE16B85842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio17", "Ejercicio17\Ejercicio17.csproj", "{7A7A4954-9957-41D7-B629-27DE16B85842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio18", "Ejercicio18\Ejercicio18.csproj", "{6571656D-9CE7-4CEE-9085-17B128A4E05B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{7A7A4954-9957-41D7-B629-27DE16B85842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A7A4954-9957-41D7-B629-27DE16B85842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A7A4954-9957-41D7-B629-27DE16B85842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6571656D-9CE7-4CEE-9085-17B128A4E05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6571656D-9CE7-4CEE-9085-17B128A4E05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6571656D-9CE7-4CEE-9085-17B128A4E05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6571656D-9CE7-4CEE-9085-17B128A4E05B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
