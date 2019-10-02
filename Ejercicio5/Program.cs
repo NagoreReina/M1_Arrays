@@ -26,7 +26,6 @@ namespace Ejercicio5
             else
             {
                 Console.WriteLine(numbers[2]);
-
             }
         }
     }
